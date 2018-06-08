@@ -1,0 +1,11 @@
+* { box-sizing: border-box; }
+
+/*-- body styling  --*/
+body {	
+  width: 100vw;
+  height: 100vh; 
+  margin: 0 auto;
+  font-family: 'PT Sans', sans-serif;
+  background-color: #efefef;
+  /* border:1px solid red; */
+}
